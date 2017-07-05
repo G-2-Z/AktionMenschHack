@@ -1,0 +1,169 @@
+[
+    {
+        "lines": [
+            {
+                "words": [
+                    {
+                        "text": "Espresso",
+                        "boundingBox": "129,350,129,31"
+                    }
+                ],
+                "boundingBox": "129,350,129,31"
+            },
+            {
+                "words": [
+                    {
+                        "text": "Americano",
+                        "boundingBox": "116,640,152,26"
+                    }
+                ],
+                "boundingBox": "116,640,152,26"
+            },
+            {
+                "words": [
+                    {
+                        "text": "Hot",
+                        "boundingBox": "93,932,49,24"
+                    },
+                    {
+                        "text": "Chocolate",
+                        "boundingBox": "151,930,139,26"
+                    }
+                ],
+                "boundingBox": "93,930,197,26"
+            }
+        ],
+        "boundingBox": "93,350,197,606"
+    },
+    {
+        "lines": [
+            {
+                "words": [
+                    {
+                        "text": "White",
+                        "boundingBox": "507,348,79,26"
+                    },
+                    {
+                        "text": "Coffee",
+                        "boundingBox": "595,347,89,27"
+                    }
+                ],
+                "boundingBox": "507,347,177,27"
+            },
+            {
+                "words": [
+                    {
+                        "text": "Latte",
+                        "boundingBox": "561,640,69,24"
+                    }
+                ],
+                "boundingBox": "561,640,69,24"
+            }
+        ],
+        "boundingBox": "507,347,177,317"
+    },
+    {
+        "lines": [
+            {
+                "words": [
+                    {
+                        "text": "Choco-",
+                        "boundingBox": "514,928,100,25"
+                    }
+                ],
+                "boundingBox": "514,928,100,25"
+            }
+        ],
+        "boundingBox": "514,928,100,25"
+    },
+    {
+        "lines": [
+            {
+                "words": [
+                    {
+                        "text": "Milk",
+                        "boundingBox": "618,927,56,25"
+                    }
+                ],
+                "boundingBox": "618,927,56,25"
+            }
+        ],
+        "boundingBox": "618,927,56,25"
+    },
+    {
+        "lines": [
+            {
+                "words": [
+                    {
+                        "text": "Cappuccino",
+                        "boundingBox": "915,346,164,32"
+                    }
+                ],
+                "boundingBox": "915,346,164,32"
+            },
+            {
+                "words": [
+                    {
+                        "text": "Macchiato",
+                        "boundingBox": "923,636,146,26"
+                    }
+                ],
+                "boundingBox": "923,636,146,26"
+            },
+            {
+                "words": [
+                    {
+                        "text": "Mocha",
+                        "boundingBox": "948,924,93,26"
+                    }
+                ],
+                "boundingBox": "948,924,93,26"
+            }
+        ],
+        "boundingBox": "915,346,164,604"
+    },
+    {
+        "lines": [
+            {
+                "words": [
+                    {
+                        "text": "Hot",
+                        "boundingBox": "1340,347,48,24"
+                    },
+                    {
+                        "text": "milk",
+                        "boundingBox": "1397,345,57,26"
+                    }
+                ],
+                "boundingBox": "1340,345,114,26"
+            },
+            {
+                "words": [
+                    {
+                        "text": "Froth",
+                        "boundingBox": "1326,634,71,26"
+                    },
+                    {
+                        "text": "Milk",
+                        "boundingBox": "1407,633,56,26"
+                    }
+                ],
+                "boundingBox": "1326,633,137,27"
+            },
+            {
+                "words": [
+                    {
+                        "text": "Hot",
+                        "boundingBox": "1326,923,48,24"
+                    },
+                    {
+                        "text": "water",
+                        "boundingBox": "1382,924,78,23"
+                    }
+                ],
+                "boundingBox": "1326,923,134,24"
+            }
+        ],
+        "boundingBox": "1326,345,137,602"
+    }
+]
