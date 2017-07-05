@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/1.unity
+- path: C:/Users/Georg/AktionMenschHack/HoloLensARToolKit-master/HoloLensARSample/Assets/Sample/HoloLensARToolKitSingle.unity
   isLoaded: 1
   isActive: 1
